@@ -152,8 +152,8 @@ This improves processing efficiency while maintaining control over the number of
 13. Demo Video
 
 Project demonstration video:
-
-[ADD YOUR GOOGLE DRIVE OR YOUTUBE DEMO VIDEO LINK HERE]
+[Click here to watch the demo]
+https://drive.google.com/file/d/1PVXS04yz8GvC94bf2NN53txAytk6pqqA/view?usp=drivesdk
 
 The demonstration includes:
 	•	Creating and scheduling emails.
